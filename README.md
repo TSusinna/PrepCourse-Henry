@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio para el modulo 2 de Henry
+Este proyecto es una prueba de como crear un reposotirio y clonarlo a mi pc.
